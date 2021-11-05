@@ -1,0 +1,10 @@
+## Data type
+## Mutable data type can be modified after creation  for example (list, dictionaries and sets)
+## immutabl data type can not be modified. for example ( String, Numbers, tuples, Frozensets )
+
+## String is sequence of character like letters, number, other charachter like doller sign space, enclosed by single quotes double quotes and triple quotes
+Example
+string1 = "Cisco Router"
+# to get the index of string you can choose
+String1[1] or string[-4]
+len(string1) ## lenght is the Function.
